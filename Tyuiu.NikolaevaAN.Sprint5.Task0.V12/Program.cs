@@ -39,7 +39,7 @@ namespace Tyuiu.NikolaevaAN.Sprint5.Task0.V12
             string res = ds.SaveToFileTextData(x);
             Console.WriteLine("Файл: " + res);
             Console.WriteLine("Создан!");
-            Console.ReadKey(); //
+            Console.ReadKey();
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Tyuiu.NikolaevaAN.Sprint5.Task0.V12.Lib
             double y = Math.Pow(x, 3) / (2 * Math.Pow((x + 5), 2));
             y = Math.Round(y, 3);
             File.WriteAllText(path, Convert.ToString(y));
-            return path; //
+            return path;
         }
     }
 }
