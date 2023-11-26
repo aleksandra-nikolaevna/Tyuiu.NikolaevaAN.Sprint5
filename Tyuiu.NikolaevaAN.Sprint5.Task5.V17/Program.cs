@@ -23,7 +23,7 @@ namespace Tyuiu.NikolaevaAN.Sprint5.Task5.V17
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая читает значения из файла и суммирует все    *");
-            Console.WriteLine("* простые целые числаа.                                                   *");
+            Console.WriteLine("* простые целые числа.                                                    *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
